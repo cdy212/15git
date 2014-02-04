@@ -1,10 +1,10 @@
 자기소개:????안됨
 ------------
-이름 :
+이름 : 오진주
 
-팀 :
+팀 : 개발지원1팀
 
-Github ID :
+Github ID : colrodia
 
-E-mail :
+E-mail : colrodia@wemakeprice.com
 
